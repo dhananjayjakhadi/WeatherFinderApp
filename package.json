@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://maryamsp12.github.io/Weather-Finder-App/",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
